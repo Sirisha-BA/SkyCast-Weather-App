@@ -5,8 +5,6 @@ A modern weather app with real-time data, animated UI, and dynamic backgrounds u
 
 > 🚀 A next-generation weather application with real-time data, dynamic animations, and a premium glassmorphism UI — built for performance, aesthetics, and user experience.
 
----
-
 ## ✨ Overview
 
 **SkyCast** is a modern web-based weather application that provides **real-time weather insights** using the OpenWeatherMap API.
